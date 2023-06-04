@@ -1,0 +1,16 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
+   background-image: linear-gradient(orange , white);
+}
+section{
+    border: 1px solid;
+    padding: 20px;
+    background-color: aliceblue;
+}
+label{
+    font-size: 20px ;
+}
